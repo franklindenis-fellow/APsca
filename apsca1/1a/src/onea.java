@@ -35,7 +35,7 @@ public class onea {
         int seconds2 = seconds % 60;
         int minutes2 = minutes % 60;
         System.out.println(seconds + " seconds is equal to " + hours + " hours, " + minutes2 + " minutes, and " + seconds2 + " seconds");
-        System.out.println("-thats it for program 4-");
+        System.out.println("-thats it for program 4 and all the programs-");
 
 
 
