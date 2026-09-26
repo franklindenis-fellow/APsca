@@ -18,6 +18,24 @@ public class methods {
        System.out.println(r.getlength());
        r.setLength(5);
        System.out.println(r.getlength());
+       //circle stuff//
+       Circle c = new Circle(1);
+       System.out.println(c.getRadius());
+       c.setRadius(4);
+       System.out.println(c.getRadius());
+
+       String myString = "hi";
+       myString = "hello";
+       System.out.println(myString.substring(1,4));
+       System.out.println(myString.substring(2 ));
+       String myString2 = "hello";
+       System.out.println(myString.equals(myString2));
+       System.out.println(myString.indexOf("l"));
+       System.out.println("D".compareTo("d"));
+       System.out.println(r);
+       System.out.println(c);
+
+
 
     }
 }

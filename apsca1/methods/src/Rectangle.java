@@ -31,5 +31,8 @@ public class Rectangle {
         if(w>0)
         width = w;
      }
+     public String toString(){
+        return "length is: " + length + " width is: " + width;
+     }
     }
 
